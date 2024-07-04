@@ -1,0 +1,10 @@
+Ronald,Regular,800.00,0,0.00
+Jose,Regular,800.00,0,0.00
+Bryan,Regular,800.00,0,0.00
+Ricardo,Regular,800.00,0,0.00
+Marvin,Regular,800.00,0,0.00
+Mario,Irregular,500.00,0,0.00
+Luis,Irregular,500.00,0,0.00
+Joshua,Irregular,500.00,0,0.00
+Steven,Irregular,500.00,0,0.00
+Cristian,Irregular,500.00,0,0.00
